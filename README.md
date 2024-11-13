@@ -22,5 +22,3 @@ I had used different technologies such as Python, Amazon Web Services (AWS), Apa
 ## Dataset Used
 
 Here is the dataset used in the video - 
-
-

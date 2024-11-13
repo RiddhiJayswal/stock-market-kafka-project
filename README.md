@@ -19,6 +19,3 @@ I had used different technologies such as Python, Amazon Web Services (AWS), Apa
 - Apache Kafka
 
 
-## Dataset Used
-
-Here is the dataset used in the video - indexProcessed.csv
